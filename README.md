@@ -1,4 +1,4 @@
-# Hi, I'm Josh! 👋
+## Hi, I'm Josh! 👋
 
 - 🎓 Software Engineering @ University of Waterloo
 - 💼 SWE Intern @ Quantified Health 
